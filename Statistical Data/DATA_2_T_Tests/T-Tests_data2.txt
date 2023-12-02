@@ -1,0 +1,4 @@
+T-Statistic: -4.495322456989115
+P-Value: 7.446593203224762e-06
+Reject the null hypothesis. There is a significant difference between the two crossover methods.
+The 'two-point' crossover method performs better.

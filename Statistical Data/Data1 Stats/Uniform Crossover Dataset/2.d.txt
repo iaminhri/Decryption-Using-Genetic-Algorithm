@@ -1,0 +1,7 @@
+GA obj1 = new GA( fname, 60, 0.90, 0.10, 2, "uniform");
+
+Minimum Fitness: 0.1172
+Maximum Fitness: 0.6026
+Median Fitness: 0.1390
+Mean Fitness: 0.1922
+Standard Deviation: 0.1017
